@@ -13,7 +13,7 @@ const Contact = () => {
         <div className=' flex flex-col items-center justify-center
          '>
           <div className=' text-orange font-semibold mb-3'>Contact</div>
-          <div className=' text-4xl text-blue font-extrabold'>+880 17314 58068</div>
+          <div className=' text-4xl text-blue font-extrabold'>+4469696969</div>
           <div className=' mb-7 text-blue'>Opening Hours: Mon - Sun: 10am - 6pm</div>
           <button className='btn'>Get an appointment</button>
         </div>

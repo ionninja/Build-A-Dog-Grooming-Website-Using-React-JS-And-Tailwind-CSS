@@ -13,7 +13,7 @@ const Footer = () => {
         </a>
         {/* copyright  */}
         <div className=' text-[15px]'>
-          &copy; Copyright 2024. All rights reserved.
+          &copy; Copyright Stay Away From My Boyfriend  2024. All rights reserved.
         </div>
         {/* social  */}
         <div className=' flex gap-x-4 justify-end'>

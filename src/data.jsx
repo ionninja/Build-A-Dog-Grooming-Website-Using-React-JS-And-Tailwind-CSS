@@ -32,27 +32,24 @@ export const navigation = [
 export const heroSlider = [
   {
     id: 1,
-    title: 'We take care of your pet.',
+    title: 'Professional Grooming Services',
     image: <HeroSlideImage1 />,
-    subtitle:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio in et, lectus sit lorem id integer.',
-    buttonText: 'Get an appointment',
+    subtitle: 'Dyamond offers top-notch grooming services to keep your pet looking their best.',
+    buttonText: 'Book Grooming',
   },
   {
     id: 2,
-    title: 'Lorem ipsum dolor sit.',
+    title: 'Reliable Dog Walking',
     image: <HeroSlideImage2 />,
-    subtitle:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio in et, lectus sit lorem id integer.',
-    buttonText: 'Get an appointment',
+    subtitle: 'Ensure your dog gets the exercise they need with Dyamond\'s walking services.',
+    buttonText: 'Book Walking',
   },
   {
     id: 3,
-    title: 'Nunc odio in et, lectus sit.',
+    title: 'Behavioral Training',
     image: <HeroSlideImage3 />,
-    subtitle:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio in et, lectus sit lorem id integer.',
-    buttonText: 'Get an appointment',
+    subtitle: 'Dyamond provides expert behavioral training to help your dog be their best self.',
+    buttonText: 'Book Training',
   },
 ];
 
@@ -64,15 +61,15 @@ export const bundleData = [
     dogCategory: '1 - 9 kg',
     services: [
       {
-        name: 'smart',
+        name: 'Standard',
         price: 20,
-        list: ['wash', 'ears cleaning', 'nail cut', 'perfumed'],
+        list: ['Bathing and Drying', 'Brushing and Trimming', 'Nail Clipping', 'Ear Cleaning'],
       },
       {
-        name: 'premium',
+        name: 'Premium',
         price: 40,
         list: [
-          'all smart services',
+          'All standard services',
           'service 1',
           'service 2',
           'service 3',
@@ -80,7 +77,7 @@ export const bundleData = [
         ],
       },
       {
-        name: 'royal',
+        name: 'Luxury',
         price: 60,
         list: [
           'all premium services',
@@ -101,15 +98,15 @@ export const bundleData = [
     dogCategory: '10 - 19 kg',
     services: [
       {
-        name: 'smart',
+        name: 'standard',
         price: 80,
-        list: ['wash', 'ears cleaning', 'nail cut', 'perfumed'],
+        list: ['Bathing and Drying', 'ears cleaning', 'nail cut', 'perfumed'],
       },
       {
         name: 'premium',
         price: 100,
         list: [
-          'all smart services',
+          'all standard services',
           'service 1',
           'service 2',
           'service 3',
@@ -117,7 +114,7 @@ export const bundleData = [
         ],
       },
       {
-        name: 'royal',
+        name: 'luxury',
         price: 120,
         list: [
           'all premium services',
@@ -138,15 +135,15 @@ export const bundleData = [
     dogCategory: '20 - 29 kg',
     services: [
       {
-        name: 'smart',
+        name: 'standard',
         price: 140,
-        list: ['wash', 'ears cleaning', 'nail cut', 'perfumed'],
+        list: ['Bathing and Drying', 'ears cleaning', 'nail cut', 'perfumed'],
       },
       {
         name: 'premium',
         price: 160,
         list: [
-          'all smart services',
+          'all standard services',
           'service 1',
           'service 2',
           'service 3',
@@ -154,7 +151,7 @@ export const bundleData = [
         ],
       },
       {
-        name: 'royal',
+        name: 'luxury',
         price: 180,
         list: [
           'all premium services',
@@ -175,15 +172,15 @@ export const bundleData = [
     dogCategory: '30 - 39 kg',
     services: [
       {
-        name: 'smart',
+        name: 'standard',
         price: 200,
-        list: ['wash', 'ears cleaning', 'nail cut', 'perfumed'],
+        list: ['Bathing and Drying', 'ears cleaning', 'nail cut', 'perfumed'],
       },
       {
         name: 'premium',
         price: 210,
         list: [
-          'all smart services',
+          'all standard services',
           'service 1',
           'service 2',
           'service 3',
@@ -191,7 +188,7 @@ export const bundleData = [
         ],
       },
       {
-        name: 'royal',
+        name: 'luxury',
         price: 220,
         list: [
           'all premium services',

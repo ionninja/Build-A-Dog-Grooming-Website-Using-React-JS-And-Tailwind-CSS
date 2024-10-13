@@ -8,7 +8,7 @@ const Program = () => {
       className=' w-[28px] h-[28px] lg:w-[34px] lg:h-[34px]'
        src={PhoneIcon} alt="" />
       <div className=' lg:text-[23px] text-blue font-extrabold'>
-        +88 013 6549 1264
+        Send Nudes
         </div>
       </div>
 

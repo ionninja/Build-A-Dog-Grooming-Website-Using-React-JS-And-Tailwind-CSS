@@ -11,7 +11,7 @@ const Bundles = ({bundles}) => {
        text-center h-[560px] rounded-[60px] py-12 px-8'
       >
         <div className=' text-5xl font-bold text-blue
-         mb-4'>$ {price}</div>
+         mb-4'>£ {price}</div>
         {/* name  */}
         <div className=' capitalize mb-12 text-blue
          font-medium'>{name}</div>
